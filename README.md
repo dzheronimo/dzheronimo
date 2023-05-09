@@ -51,3 +51,9 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
   <img src='https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg' title='PostgreSQL' alt='PostgreSQL' width='40' height='40'/>&nbsp;
   <img src='https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg' title='PyCharm' alt='PyCharm' width='40' height='40'/>&nbsp;
 </div>
+
+---
+
+### :fire: My Stats :
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dzheronimo&theme=tokyonight-duo&border_radius=5&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
