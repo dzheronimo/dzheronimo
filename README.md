@@ -59,3 +59,17 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dzheronimo&theme=tokyonight-duo&border_radius=5&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dzheronimo&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### :dark_sunglasses: My best work :
+
+ 1. **YaTube** - Social network for publish diaries\
+   ***Stack***: Python 3, Django 2.2, PostgreSQL, gunnicorn, NGINX\
+   <a href='https://github.com/dzheronimo/hw05_final'>Link to repository</a>\
+   ***About***: implemented authorization with verification via email. Pagination, page and request cashing. Covered the entire project with Unitest.
+   
+ 2. **REST API - YaTube** - RESTFull API for YaTube project\
+    ***Stack***: Python 3, Django 2.2, Django REST framework, PostgreSQL, gunnicorn, NGINX.
+    <a  href='https://github.com/dzheronimo/api_final_yatube'>Link to repository</a>
+    ***About***: REST API for YaTube project. Implented authentication using JWT-token.
